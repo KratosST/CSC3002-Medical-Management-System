@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/button.png</file>
+        <file>image/exit.png</file>
+        <file>image/login1.jpg</file>
+        <file>image/login2.jpg</file>
+        <file>image/logo2.png</file>
+        <file>image/main.jpg</file>
+        <file>image/max1.png</file>
+        <file>image/max2.png</file>
+        <file>image/min.png</file>
+        <file>image/registerDoctor.jpg</file>
+        <file>image/registerPatient.jpg</file>
+        <file>image/doctor.png</file>
+        <file>image/patientInformation.png</file>
+        <file>image/patient.jpg</file>
+        <file>image/registerDoctor2.jpg</file>
+    </qresource>
+</RCC>

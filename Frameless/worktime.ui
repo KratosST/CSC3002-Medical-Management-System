@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>worktime</class>
+ <widget class="QDialog" name="worktime">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>910</width>
+    <height>422</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>60</y>
+     <width>731</width>
+     <height>261</height>
+    </rect>
+   </property>
+   <row>
+    <property name="text">
+     <string>9:00-10:00</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>10:00-11:00</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>11:00-12:00</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>14:00-15:00</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>15:00-16:00</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>16:00-17:00</string>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string>星期一</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>星期二</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>星期三</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>星期四</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>星期五</string>
+    </property>
+   </column>
+  </widget>
+  <widget class="Line" name="line">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>80</y>
+     <width>621</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="orientation">
+    <enum>Qt::Horizontal</enum>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
